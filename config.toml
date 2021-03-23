@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Hugo Jib"
+theme = "levens"
+summaryLength = 14
+paginate = 2
+[params]
+    Description = "Najib blog wee"
